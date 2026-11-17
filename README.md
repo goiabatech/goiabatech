@@ -1,8 +1,3 @@
-8## Hi there 👋
-
-<!--
-**goiabatech/goiabatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 🍈 Goiaba Tech
 
 **Goiaba Tech** é uma empresa de tecnologia focada em criar soluções digitais simples, eficientes e acessíveis para pessoas e pequenos negócios.
